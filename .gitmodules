@@ -1,0 +1,3 @@
+[submodule "UnityProject/engine"]
+	path = UnityProject/engine
+	url = git@github.com:tayl0r/test-submodule-engine.git
